@@ -72,6 +72,7 @@ However, in most cases, using a specific locale will be beneficial in the long t
 | fr_CH       | French (Switzerland)      |
 | fr_LU       | French (Luxembourg)       |
 | ge          | Georgian                  |
+| global      | Global                    |
 | he          | Hebrew                    |
 | hr          | Hrvatski                  |
 | hu          | Hungarian                 |

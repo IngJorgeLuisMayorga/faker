@@ -13,4 +13,9 @@ export type ColorDefinitions = LocaleEntry<{
    * Color space names.
    */
   space: string[];
+
+  /**
+   * Color space names supported by CSS.
+   */
+  css_space: string[];
 }>;
